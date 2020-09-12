@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GoingToTheMoon
+comment0.text=\r\n\ \r\n\ This\ class\ belongs\ to\ the\ Going\ to\ the\ Moon\ final\ project\ Scenario\r\n\ \r\n\ This\ class\ defines\ the\ size\ of\ the\ world\ (800\ x\ 800)\ and\ creates\ as\ well\ as\r\n\ places\ the\ initial\ objects\ in\ space.\r\n\ \r\n\ @author\:\ Randy\ Gallant\r\n\ @School\:\ Univeristy\ of\ Guelph\ Humber\ ...\ Toronto,\ Canada\r\n\ @version\:\ 1.0\ Nov.\ 2007\r\n
+comment1.params=
+comment1.target=GoingToTheMoon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GoingToTheMoon.\r\n\ \r\n
+numComments=2

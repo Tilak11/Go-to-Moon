@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ The\ Counter\ is\ an\ Actor\ in\ the\ Going\ to\ the\ Moon\ Scenario\r\n\ \r\n\ @author\:\ Randy\ Gallant\r\n\ @School\:\ University\ of\ Guelph/Humber\r\n\ @version\:\ 1.0\ Nov.\ 2007\r\n
+comment1.params=
+comment1.target=Counter()
+comment2.params=prefix\ fuel
+comment2.target=Counter(java.lang.String,\ int)
+comment3.params=Fuelnew
+comment3.target=int\ Reset(int)
+comment4.params=
+comment4.target=void\ Decrement()
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\r\n\ Create\ and\ Update\ the\ Image\r\n
+numComments=6

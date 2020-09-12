@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MoonLandingPad
+comment0.text=\r\n\ The\ MoonLandingPad\ is\ an\ Actor\ in\ the\ Going\ to\ the\ Moon\ Scenario\r\n\ \r\n\ @author\:\ Randy\ Gallant\r\n\ @School\:\ University\ of\ Guelph/Humber\r\n\ @version\:\ 1.0\ Nov.\ 2007\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
