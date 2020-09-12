@@ -7,7 +7,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  * @School: University of Guelph/Humber
  * @version: 1.0 Nov. 2007
  */
-public class Earth extends Actor
+public class  ttEarth extends Actor
 {
     public void act() 
     {
