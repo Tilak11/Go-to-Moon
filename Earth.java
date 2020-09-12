@@ -9,7 +9,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  */
 public class  ttEarth extends Actor
 {
-    public void act() 
+    public void tact() 
     {
         // The Earth does no acting.
     }    
