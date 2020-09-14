@@ -9,7 +9,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, and Greenfoot)
  */
 public class RockRight extends Actor
 {
-    public void act() 
+    public void tilak() 
     {
         // RockRight does no acting.
     }    
